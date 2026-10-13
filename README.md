@@ -1,4 +1,6 @@
 # EXPERIMENT-06-CONFIGURING-INDOOR-GATEWAY-FOR-LORAWAN
+## Name:AMMINENI MOKSHA SREE
+## Reg.no:2305001001
 
 ## Aim: 
 
@@ -119,7 +121,10 @@ The frequency band is allocated now. Now we need to get the Gateway ID. To get t
 
 
 ## OUTPUT 
+<img width="1377" height="792" alt="image" src="https://github.com/user-attachments/assets/3e2ebe0e-af9b-4992-8686-06e92a275d0f" />
 
+
+<img width="1200" height="1600" alt="WhatsApp Image 2026-10-13 at 11 38 24 AM" src="https://github.com/user-attachments/assets/fa2262da-f305-421a-a86b-4ece2ff423a3" />
 
 
 
